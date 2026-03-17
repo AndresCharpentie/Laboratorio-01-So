@@ -77,6 +77,7 @@ Se creó un repositorio en GitHub y se vinculó con el repositorio local mediant
 
 ```
 git remote add origin <URL_del_repositorio>
+git remote add origin https://github.com/AndresCharpentie/Laboratorio-01-So
 ```
 
 Finalmente, se subieron los cambios al repositorio remoto:
@@ -102,3 +103,5 @@ En conclusión, Git es una herramienta fundamental en el desarrollo de software,
 ![alt text](image.png)
 
 ![alt text](image-1.png)
+
+![alt text](image-2.png)
