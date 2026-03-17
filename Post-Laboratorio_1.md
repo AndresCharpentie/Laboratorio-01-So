@@ -49,6 +49,7 @@ Se creó una nueva rama llamada develop para trabajar de forma separada del cód
 git branch develop
 git checkout develop
 ```
+El uso de ramas en Git es fundamental para el trabajo en equipo, ya que permite que varios desarrolladores trabajen de forma simultánea en distintas partes del proyecto sin interferir entre sí. Cada integrante puede crear su propia rama para desarrollar funcionalidades, corregir errores o realizar pruebas de manera independiente, evitando afectar la versión principal del sistema. Una vez finalizados y verificados los cambios, estos pueden integrarse al proyecto mediante procesos como el merge. De esta forma, se logra una mejor organización del trabajo, se reducen los conflictos entre cambios y se facilita el desarrollo colaborativo.
 
 Luego se realizaron modificaciones en el archivo README.md y se guardaron:
 
@@ -94,7 +95,7 @@ Durante este laboratorio se aprendieron los conceptos fundamentales de Git y Git
 
 Uno de los aprendizajes más importantes fue entender cómo funciona el flujo de trabajo de Git: modificar archivos, agregarlos al staging area y luego confirmarlos con un commit. También se comprendió la importancia de las ramas para trabajar de manera ordenada sin afectar el código principal.
 
-Este laboratorio no presentó mayores complicaciones, ya que contaba con conocimientos previos sobre el uso de Git adquiridos en otras materias, como Programación 2, donde ya utilizábamos este sistema. Esto facilitó la comprensión de los conceptos y la ejecución de los comandos trabajados en clase.
+Este laboratorio no presentó mayores complicaciones, ya que contaba con conocimientos previos sobre el uso de Git adquiridos en otras materias, como Programación 2, donde ya utilizábamos este sistema. Esto facilitó la comprensión de los conceptos y la ejecución de los comandos trabajados en este primer laboratorio.
 
 En conclusión, Git es una herramienta fundamental en el desarrollo de software, ya que permite llevar un control eficiente de los cambios y facilita el trabajo colaborativo.
 
