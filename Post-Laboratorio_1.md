@@ -93,7 +93,7 @@ Durante este laboratorio se aprendieron los conceptos fundamentales de Git y Git
 
 Uno de los aprendizajes más importantes fue entender cómo funciona el flujo de trabajo de Git: modificar archivos, agregarlos al staging area y luego confirmarlos con un commit. También se comprendió la importancia de las ramas para trabajar de manera ordenada sin afectar el código principal.
 
-Entre las dificultades encontradas, se destacó la comprensión inicial de algunos comandos y el manejo de branches. Sin embargo, estas dificultades se resolvieron mediante la práctica y la repetición de los pasos.
+Este laboratorio no presentó mayores complicaciones, ya que contaba con conocimientos previos sobre el uso de Git adquiridos en otras materias, como Programación 2, donde ya utilizábamos este sistema. Esto facilitó la comprensión de los conceptos y la ejecución de los comandos trabajados en clase.
 
 En conclusión, Git es una herramienta fundamental en el desarrollo de software, ya que permite llevar un control eficiente de los cambios y facilita el trabajo colaborativo.
 
